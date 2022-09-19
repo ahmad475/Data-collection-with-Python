@@ -22,6 +22,7 @@
     Jan 01 2015 to Spet 18 2022. Whereas, the other approach skipped dates which was not good. 
 
 5. how to execute your program.
+
     For DAILY results run: daily.py
     For WEEKLY results run: weekly.py (upto 2015-06-14 for time sake)
 
